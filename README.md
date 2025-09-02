@@ -1,7 +1,5 @@
 # kuppismart-quote-api
 
-# 🚀 Quote API
-
 A simple **RESTful API** built with **Node.js + Express** that returns random inspirational quotes.  
 Includes **IP-based rate limiting** (5 requests/minute per IP) and **Swagger documentation**.  
 
